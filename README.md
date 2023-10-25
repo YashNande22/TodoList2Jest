@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="https://avatars.githubusercontent.com/u/108092696?v=4(https://github.com/account)" alt="logo" width="140"  height="auto" />
+  <img src="[https://avatars.githubusercontent.com/u/108092696?v=4(https://github.com/account)](https://github.com/account)" alt="logo" width="140"  height="auto" />
   <h3>To Do List</h3>
 </div>
 
